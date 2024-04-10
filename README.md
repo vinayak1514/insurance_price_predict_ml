@@ -9,7 +9,7 @@ Insurance Premium Prediction is a comprehensive project designed to forecast ins
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/yashdahekar/Insurance_Premium_Prediction](https://github.com/vinayak1514/insurance_price_predict_ml.git)
+    git clone https://github.com/vinayak1514/insurance_price_predict_ml.git
     cd Insurance_Premium_Prediction
     ```
 
